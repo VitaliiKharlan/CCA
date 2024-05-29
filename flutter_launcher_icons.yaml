@@ -1,0 +1,5 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/crypto_currency_app.png"
+  min_sdk_android: 21
